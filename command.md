@@ -1,4 +1,4 @@
-### Find first 1000 open ports
+### Find ports
 
 ```bash
 nmap example.com 
